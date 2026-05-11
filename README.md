@@ -1,189 +1,56 @@
+<div align="center">
+<p>| <b>THE CONTRIBUTOR TIMES</b> |</p>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=THE%20CONTRIBUTOR%20TIMES&fontSize=40&fontColor=000000"/>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1"/>
 
 <div align="center">
-  <p>| <b>THE CONTRIBUTOR TIMES</b> |</p>
-  <h1>THE CONTRIBUTOR TIMES</h1>
-  <hr />
   <b>CODE • BUILD • SHIP • REPEAT</b>
 </div>
 
-<hr />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1"/>
 
-<figure align="right">
-  <blockquote lang="en">
-    <p>
-      <b
-        ><em
-          >Most people make the mistake of thinking design is what it looks
-          like. For us, design is how it works.</em
-        ></b
-      >
-    </p>
-  </blockquote>
-  <figcaption>
-    <b> — Steve Jobs, </b>
-    <cite>The New York Times interview, 2003</cite>
-  </figcaption>
-</figure>
+<p align="right">
+  <b><em>"Most people make the mistake of thinking design is what it looks like. For us, design is how it works."</em></b><br>
+  — <b>Steve Jobs</b>, <cite><em>The New York Times interview, 2003</em></cite>
+</p>
 
-<hr />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1"/>
+
 <div align="center">
-  <small>POWERED BY:</small>
-</div>
-<table width="100%">
-  <tr>
-    <td align="center" valign="middle">
-      <br />
-      <img
-        src="https://cdn.simpleicons.org/vuedotjs/000000"
-        width="20"
-        height="20"
-        align="center"
-      />
-      <b>&nbsp;•&nbsp;</b>
-      <img
-        src="https://cdn.simpleicons.org/react/000000"
-        width="20"
-        height="20"
-        align="center"
-      />
-      <b>&nbsp;•&nbsp;</b>
-      <img
-        src="https://cdn.simpleicons.org/nodedotjs/000000"
-        width="20"
-        height="20"
-        align="center"
-      />
-      <b>&nbsp;•&nbsp;</b>
-      <img
-        src="https://cdn.simpleicons.org/docker/000000"
-        width="20"
-        height="20"
-        align="center"
-      />
-      <b>&nbsp;•&nbsp;</b>
-      <img
-        src="https://cdn.simpleicons.org/fastify/000000"
-        width="20"
-        height="20"
-        align="center"
-      />
-      <b>&nbsp;•&nbsp;</b>
-      <img
-        src="https://cdn.simpleicons.org/git/000000"
-        width="20"
-        height="20"
-        align="center"
-      />
-      <b>&nbsp;•&nbsp;</b>
-      <img
-        src="https://cdn.simpleicons.org/i18next/000000"
-        width="20"
-        height="20"
-        align="center"
-      />
-      <b>&nbsp;•&nbsp;</b>
-      <img
-        src="https://cdn.simpleicons.org/jest/000000"
-        width="20"
-        height="20"
-        align="center"
-      />
-      <b>&nbsp;•&nbsp;</b>
-      <img
-        src="https://cdn.simpleicons.org/linux/000000"
-        width="20"
-        height="20"
-        align="center"
-      />
-      <b>&nbsp;•&nbsp;</b>
-      <img
-        src="https://cdn.simpleicons.org/jquery/000000"
-        width="20"
-        height="20"
-        align="center"
-      />
-      <b>&nbsp;•&nbsp;</b>
-      <img
-        src="https://cdn.simpleicons.org/pinia/000000"
-        width="20"
-        height="20"
-        align="center"
-      />
-      <b>&nbsp;•&nbsp;</b>
-      <img
-        src="https://cdn.simpleicons.org/pug/000000"
-        width="20"
-        height="20"
-        align="center"
-      />
-      <b>&nbsp;•&nbsp;</b>
-      <img
-        src="https://cdn.simpleicons.org/redux/000000"
-        width="20"
-        height="20"
-        align="center"
-      />
-      <b>&nbsp;•&nbsp;</b>
-      <img
-        src="https://cdn.simpleicons.org/sass/000000"
-        width="20"
-        height="20"
-        align="center"
-      />
-      <b>&nbsp;•&nbsp;</b>
-      <img
-        src="https://cdn.simpleicons.org/storybook/000000"
-        width="20"
-        height="20"
-        align="center"
-      />
-      <b>&nbsp;•&nbsp;</b>
-      <img
-        src="https://cdn.simpleicons.org/typescript/000000"
-        width="20"
-        height="20"
-        align="center"
-      />
-      <b>&nbsp;•&nbsp;</b>
-      <img
-        src="https://cdn.simpleicons.org/vite/000000"
-        width="20"
-        height="20"
-        align="center"
-      />
-      <b>&nbsp;•&nbsp;</b>
-      <img
-        src="https://cdn.simpleicons.org/primevue/000000"
-        width="20"
-        height="20"
-        align="center"
-      />
-      <b>&nbsp;•&nbsp;</b>
-      <img
-        src="https://cdn.simpleicons.org/shadcnui/000000"
-        width="20"
-        height="20"
-        align="center"
-      />
-      <b>&nbsp;•&nbsp;</b>
-      <img
-        src="https://cdn.simpleicons.org/vuetify/000000"
-        width="20"
-        height="20"
-        align="center"
-      />
-      <b>&nbsp;•&nbsp;</b>
-      <img
-        src="https://cdn.simpleicons.org/webpack/000000"
-        width="20"
-        height="20"
-        align="center"
-      />
-      <br /><br />
-    </td>
-  </tr>
-</table>
 
-<hr />
-<div align="center"><b>THANKS FOR VISITING</b></div>
-<hr />
+###### POWERED BY:
+
+<img src="https://cdn.simpleicons.org/vuedotjs/black" width="24" />
+<img src="https://cdn.simpleicons.org/react/black" width="24" />
+<img src="https://cdn.simpleicons.org/nodedotjs/black" width="24" />
+<img src="https://cdn.simpleicons.org/docker/black" width="24" />
+<img src="https://cdn.simpleicons.org/fastify/black" width="24" />
+<img src="https://cdn.simpleicons.org/git/black" width="24" />
+<img src="https://cdn.simpleicons.org/i18next/black" width="24" />
+<img src="https://cdn.simpleicons.org/jest/black" width="24" />
+<img src="https://cdn.simpleicons.org/linux/black" width="24" />
+<img src="https://cdn.simpleicons.org/jquery/black" width="24" />
+<img src="https://cdn.simpleicons.org/pinia/black" width="24" />
+<img src="https://cdn.simpleicons.org/pug/black" width="24" />
+<img src="https://cdn.simpleicons.org/redux/black" width="24" />
+<img src="https://cdn.simpleicons.org/sass/black" width="24" />
+<img src="https://cdn.simpleicons.org/storybook/black" width="24" />
+<img src="https://cdn.simpleicons.org/typescript/black" width="24" />
+<img src="https://cdn.simpleicons.org/vite/black" width="24" />
+<img src="https://cdn.simpleicons.org/primevue/black" width="24" />
+<img src="https://cdn.simpleicons.org/shadcnui/black" width="24" />
+<img src="https://cdn.simpleicons.org/vuetify/black" width="24" />
+<img src="https://cdn.simpleicons.org/webpack/black" width="24" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1"/>
+
+<div align="center">
+  <b>THANKS FOR VISITING</b>
+</div>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1"/>
