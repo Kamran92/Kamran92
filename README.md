@@ -1,6 +1,6 @@
 <div align="center">
   
-##### | THE CONTRIBUTOR TIMES |
+### | THE CONTRIBUTOR TIMES |
 
 # THE CONTRIBUTOR TIMES
 
