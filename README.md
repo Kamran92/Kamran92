@@ -1,23 +1,19 @@
 <div align="center">
-<p>| <b>THE CONTRIBUTOR TIMES</b> |</p>
+  
+##### | THE CONTRIBUTOR TIMES |
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=THE%20CONTRIBUTOR%20TIMES&fontSize=40&fontColor=000000"/>
-</div>
+# THE CONTRIBUTOR TIMES
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1"/>
+##### CODE • BUILD • SHIP • REPEAT
 
-<div align="center">
-  <b>CODE • BUILD • SHIP • REPEAT</b>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1"/>
+<hr />
 
 <p align="right">
   <b><em>"Most people make the mistake of thinking design is what it looks like. For us, design is how it works."</em></b><br>
   — <b>Steve Jobs</b>, <cite><em>The New York Times interview, 2003</em></cite>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1"/>
+<hr />
 
 <div align="center">
 
@@ -46,11 +42,8 @@
 <img src="https://cdn.simpleicons.org/webpack/black" width="24" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1"/>
+<hr />
 
-<div align="center">
-  <b>THANKS FOR VISITING</b>
-</div>
+##### THANKS FOR VISITING
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1"/>
+<hr />
